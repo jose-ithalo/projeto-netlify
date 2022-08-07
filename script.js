@@ -6,7 +6,6 @@ const pokePhoto2 = document.querySelector('.back');
 const abilities = document.querySelectorAll('.abilities');
 const popup = document.querySelector('.popup');
 const informations = document.querySelector('.inform');
-const empty = '';
 
 
 inputName.addEventListener('change', function () {
